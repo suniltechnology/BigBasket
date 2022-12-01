@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Paying"
+payment gateway

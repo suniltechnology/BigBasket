@@ -1,9 +1,8 @@
 class product
 {
-public static void main(String args[])
+public static void main()
 {
-system.Out.Println("Hello")
-system.Out.Println("welcome")
+print("Hello")
 }
 }
 
