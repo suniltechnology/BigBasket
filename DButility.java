@@ -4,3 +4,6 @@ update
 delete
 remove
 
+paused
+restart
+
