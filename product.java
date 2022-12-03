@@ -3,7 +3,7 @@ class product
 public static void main()
 {
 print("Hello")
-print("bye")
+print("bye22")
 }
 }
 
