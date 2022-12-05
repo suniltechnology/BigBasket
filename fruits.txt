@@ -1,10 +1,7 @@
 mango
-<<<<<<< HEAD
 apple
 banana
-
-=======
 banana
 pineapple
 orange
->>>>>>> 4e2f205f9d918d3120446d8c922c8c47c5af7171
+quiwi
